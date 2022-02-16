@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/2DAW_Tienda_React/static/css/main.e7342903.css",
-    "main.js": "/2DAW_Tienda_React/static/js/main.93763d88.js",
+    "main.js": "/2DAW_Tienda_React/static/js/main.98f79d03.js",
     "static/js/787.d920d4ed.chunk.js": "/2DAW_Tienda_React/static/js/787.d920d4ed.chunk.js",
     "index.html": "/2DAW_Tienda_React/index.html",
     "main.e7342903.css.map": "/2DAW_Tienda_React/static/css/main.e7342903.css.map",
-    "main.93763d88.js.map": "/2DAW_Tienda_React/static/js/main.93763d88.js.map",
+    "main.98f79d03.js.map": "/2DAW_Tienda_React/static/js/main.98f79d03.js.map",
     "787.d920d4ed.chunk.js.map": "/2DAW_Tienda_React/static/js/787.d920d4ed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7342903.css",
-    "static/js/main.93763d88.js"
+    "static/js/main.98f79d03.js"
   ]
 }
