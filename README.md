@@ -1,5 +1,5 @@
-# Getting Started with Create React App
-**Project name:** ToDo List/Recordatorios<br/>
+# Tienda_React
+**Project name:** Tienda_React<br/>
 **Author:** [DainWs](https://github.com/DainWs)<br/>
 **Production test:** <br/>
 [Production GitHub](https://dainws.github.io/2DAW_Tienda_React/)<br/>
