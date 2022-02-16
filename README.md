@@ -2,7 +2,7 @@
 **Project name:** ToDo List/Recordatorios<br/>
 **Author:** [DainWs](https://github.com/DainWs)<br/>
 **Production test:** <br/>
-[Production GitHub](https://dainws.github.io/2DAW_ToDo_Project/)<br/>
+[Production GitHub](https://dainws.github.io/2DAW_Tienda_React/)<br/>
 [Production Firebase](https://chinospaco-tienda-react.web.app/)<br/>
 
 ![Show Image](docs/banner.png)
