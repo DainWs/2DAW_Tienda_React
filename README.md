@@ -5,7 +5,7 @@
 [Production GitHub](https://dainws.github.io/2DAW_ToDo_Project/)<br/>
 [Production Firebase](https://chinospaco-tienda-react.web.app/)<br/>
 
-![Show Image](docs/Example.png)
+![Show Image](docs/banner.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
