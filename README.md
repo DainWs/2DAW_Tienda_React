@@ -7,6 +7,18 @@
 
 ![Show Image](docs/banner.png)
 
+Adding to the sopping car:
+![Show Image](docs/adding.gif)
+
+Paying products:
+![Show Image](docs/buying.gif)
+
+Selecting products:
+![Show Image](docs/select.gif)
+
+Subscribing/Log in with google account:
+![Show Image](docs/subscribe.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
